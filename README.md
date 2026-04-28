@@ -70,7 +70,5 @@ as above, this is not recommended.
 
 ## Further reading
 
-* [Raspberry Pi Video Player Hardware tutorial](https://alexlubbock.com/raspberry-pi-video-player-hardware)
-* [Raspberry Pi Video Player Software tutorial](https://alexlubbock.com/raspberry-pi-video-player-software)
 * [Python on the Raspberry Pi](https://www.raspberrypi.org/documentation/linux/software/python.md)
 * [OMXPlayer, a hardware-accelerated video player for Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md)
